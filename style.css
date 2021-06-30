@@ -8,10 +8,14 @@
     font-family: "Nunito",sans-serif;
     background: #353535;
   }
+  .heading{
+      text-align: center;
+      margin-top: 50px;
+  }
   
   .input{
     text-align: center;
-    margin: 100px auto;
+    margin: 70px auto;
   }
   
   input[type="submit"]{
